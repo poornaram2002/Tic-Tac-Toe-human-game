@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-human-game
-a simple Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+# Tic-Tac-Toe
+it is a tic-tac-toe-game which can play human
